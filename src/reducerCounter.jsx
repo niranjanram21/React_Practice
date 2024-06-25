@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useReducer } from 'react';
 
 const initialState = 0;
